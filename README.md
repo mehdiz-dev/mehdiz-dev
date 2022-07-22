@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehdi</h1>
-<h3 align="center">A passionate solidity and web developer from France</h3>
+<h3 align="center">Hey, Im Mehdi a passionate solidity and web developer from France</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
